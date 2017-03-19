@@ -17,7 +17,7 @@
     </parent>
 
     <properties>
-        <docker.image.prefix></docker.image.prefix>
+        <docker.image.prefix>schronk</docker.image.prefix>
         <start-class>services.Application</start-class>
     </properties>
 

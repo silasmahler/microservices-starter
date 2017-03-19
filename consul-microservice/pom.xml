@@ -8,7 +8,7 @@
     <packaging>jar</packaging>
     <groupId>de.schronk</groupId>
     <properties>
-        <docker.image.prefix></docker.image.prefix>
+        <docker.image.prefix>schronk</docker.image.prefix>
         <docker.plugin.version>0.4.13</docker.plugin.version>
     </properties>
     <dependencies>

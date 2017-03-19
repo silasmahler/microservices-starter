@@ -13,7 +13,7 @@
     </parent>
 
     <properties>
-        <docker.image.prefix></docker.image.prefix>
+        <docker.image.prefix>schronk</docker.image.prefix>
     </properties>
 
     <dependencies>
