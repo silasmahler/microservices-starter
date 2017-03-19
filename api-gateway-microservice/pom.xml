@@ -9,13 +9,13 @@
     <packaging>jar</packaging>
 
     <parent>
-        <groupId>org.kbastani</groupId>
-        <artifactId>spring-cloud-microservice-example-parent</artifactId>
-        <version>0.1.0-SNAPSHOT</version>
+        <groupId>de.schronk</groupId>
+        <artifactId>microservices-starter</artifactId>
+        <version>0.0.1-SNAPSHOT</version>
     </parent>
 
     <properties>
-        <docker.image.prefix>kbastani</docker.image.prefix>
+        <docker.image.prefix></docker.image.prefix>
     </properties>
 
     <dependencies>
